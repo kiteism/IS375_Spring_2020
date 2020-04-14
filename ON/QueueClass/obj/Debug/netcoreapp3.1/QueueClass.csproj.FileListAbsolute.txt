@@ -1,0 +1,10 @@
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.exe
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.deps.json
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.runtimeconfig.json
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.runtimeconfig.dev.json
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.dll
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.pdb
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.AssemblyInfoInputs.cache
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.AssemblyInfo.cs
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.dll
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.pdb

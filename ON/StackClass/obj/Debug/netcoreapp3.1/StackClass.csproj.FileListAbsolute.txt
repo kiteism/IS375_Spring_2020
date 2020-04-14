@@ -1,0 +1,10 @@
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\StackClass\bin\Debug\netcoreapp3.1\StackClass.exe
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\StackClass\bin\Debug\netcoreapp3.1\StackClass.deps.json
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\StackClass\bin\Debug\netcoreapp3.1\StackClass.runtimeconfig.json
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\StackClass\bin\Debug\netcoreapp3.1\StackClass.runtimeconfig.dev.json
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\StackClass\bin\Debug\netcoreapp3.1\StackClass.dll
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\StackClass\bin\Debug\netcoreapp3.1\StackClass.pdb
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\StackClass\obj\Debug\netcoreapp3.1\StackClass.AssemblyInfoInputs.cache
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\StackClass\obj\Debug\netcoreapp3.1\StackClass.AssemblyInfo.cs
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\StackClass\obj\Debug\netcoreapp3.1\StackClass.dll
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\StackClass\obj\Debug\netcoreapp3.1\StackClass.pdb

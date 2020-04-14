@@ -1,0 +1,11 @@
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\MultiDimensionalArrayProgram\bin\Debug\netcoreapp3.1\MultiDimensionalArrayProgram.exe
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\MultiDimensionalArrayProgram\bin\Debug\netcoreapp3.1\MultiDimensionalArrayProgram.deps.json
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\MultiDimensionalArrayProgram\bin\Debug\netcoreapp3.1\MultiDimensionalArrayProgram.runtimeconfig.json
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\MultiDimensionalArrayProgram\bin\Debug\netcoreapp3.1\MultiDimensionalArrayProgram.runtimeconfig.dev.json
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\MultiDimensionalArrayProgram\bin\Debug\netcoreapp3.1\MultiDimensionalArrayProgram.dll
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\MultiDimensionalArrayProgram\bin\Debug\netcoreapp3.1\MultiDimensionalArrayProgram.pdb
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\MultiDimensionalArrayProgram\obj\Debug\netcoreapp3.1\MultiDimensionalArrayProgram.csprojAssemblyReference.cache
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\MultiDimensionalArrayProgram\obj\Debug\netcoreapp3.1\MultiDimensionalArrayProgram.AssemblyInfoInputs.cache
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\MultiDimensionalArrayProgram\obj\Debug\netcoreapp3.1\MultiDimensionalArrayProgram.AssemblyInfo.cs
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\MultiDimensionalArrayProgram\obj\Debug\netcoreapp3.1\MultiDimensionalArrayProgram.dll
+C:\Users\Peyto\Desktop\IS375_Spring_2020\IN\PeytonBodhi\Module1\MultiDimensionalArrayProgram\obj\Debug\netcoreapp3.1\MultiDimensionalArrayProgram.pdb
