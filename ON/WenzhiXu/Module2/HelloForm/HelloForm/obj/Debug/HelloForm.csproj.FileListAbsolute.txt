@@ -1,0 +1,10 @@
+C:\Users\85339\Source\Repos\HelloForm\HelloForm\bin\Debug\HelloForm.exe.config
+C:\Users\85339\Source\Repos\HelloForm\HelloForm\bin\Debug\HelloForm.exe
+C:\Users\85339\Source\Repos\HelloForm\HelloForm\bin\Debug\HelloForm.pdb
+C:\Users\85339\Source\Repos\HelloForm\HelloForm\obj\Debug\HelloForm.csprojAssemblyReference.cache
+C:\Users\85339\Source\Repos\HelloForm\HelloForm\obj\Debug\HelloForm.Form1.resources
+C:\Users\85339\Source\Repos\HelloForm\HelloForm\obj\Debug\HelloForm.Properties.Resources.resources
+C:\Users\85339\Source\Repos\HelloForm\HelloForm\obj\Debug\HelloForm.csproj.GenerateResource.cache
+C:\Users\85339\Source\Repos\HelloForm\HelloForm\obj\Debug\HelloForm.csproj.CoreCompileInputs.cache
+C:\Users\85339\Source\Repos\HelloForm\HelloForm\obj\Debug\HelloForm.exe
+C:\Users\85339\Source\Repos\HelloForm\HelloForm\obj\Debug\HelloForm.pdb
