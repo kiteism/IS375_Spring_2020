@@ -1,0 +1,12 @@
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module3\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module3\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module3\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module3\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module3\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module3\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module3\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module3\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module3\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module3\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module3\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module3\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache
