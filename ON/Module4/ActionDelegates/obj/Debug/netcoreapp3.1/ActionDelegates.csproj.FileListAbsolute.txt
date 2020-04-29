@@ -1,0 +1,13 @@
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.exe
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.deps.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.runtimeconfig.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.runtimeconfig.dev.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\ActionDelegates\bin\Debug\netcoreapp3.1\ActionDelegates.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.csprojAssemblyReference.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.AssemblyInfoInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.AssemblyInfo.cs
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\ActionDelegates\obj\Debug\netcoreapp3.1\ActionDelegates.genruntimeconfig.cache

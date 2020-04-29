@@ -1,0 +1,13 @@
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.exe
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.deps.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.runtimeconfig.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.runtimeconfig.dev.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\MulticastingDelegates\bin\Debug\netcoreapp3.1\MulticastingDelegates.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.csprojAssemblyReference.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.AssemblyInfoInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.AssemblyInfo.cs
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\MulticastingDelegates\obj\Debug\netcoreapp3.1\MulticastingDelegates.genruntimeconfig.cache

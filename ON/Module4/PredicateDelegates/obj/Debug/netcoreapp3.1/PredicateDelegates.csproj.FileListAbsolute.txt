@@ -1,0 +1,12 @@
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.exe
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.deps.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.runtimeconfig.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.runtimeconfig.dev.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\PredicateDelegates\bin\Debug\netcoreapp3.1\PredicateDelegates.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.AssemblyInfoInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.AssemblyInfo.cs
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module4\PredicateDelegates\obj\Debug\netcoreapp3.1\PredicateDelegates.genruntimeconfig.cache

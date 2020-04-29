@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Peyto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Peyto\\.nuget\\packages"
+    ]
+  }
+}
