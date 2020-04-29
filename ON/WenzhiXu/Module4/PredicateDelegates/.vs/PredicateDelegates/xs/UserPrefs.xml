@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{33E8F0DC-DD3D-47CE-8B4D-8E982C9B0AAE}|Default">
+  <MonoDevelop.Ide.ItemProperties.PredicateDelegates FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PredicateDelegates/Program.cs">
+    <Files>
+      <File FileName="PredicateDelegates/Program.cs" Line="13" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PredicateDelegates" expanded="True">
+            <Node name="PredicateDelegates" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
