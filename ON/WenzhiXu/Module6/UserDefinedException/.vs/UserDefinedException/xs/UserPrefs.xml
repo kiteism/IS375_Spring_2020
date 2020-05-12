@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7008FB0A-9486-4247-9FE4-59DF291F64B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UserDefinedException/Program.cs">
+    <Files>
+      <File FileName="UserDefinedException/Program.cs" Line="16" Column="74" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UserDefinedException" expanded="True">
+            <Node name="UserDefinedException" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UserDefinedException PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
