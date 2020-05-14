@@ -1,0 +1,13 @@
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.exe
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.deps.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.runtimeconfig.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.runtimeconfig.dev.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\UserDefinedExceptions\bin\Debug\netcoreapp3.1\UserDefinedExceptions.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.csprojAssemblyReference.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.AssemblyInfoInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.AssemblyInfo.cs
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\UserDefinedExceptions\obj\Debug\netcoreapp3.1\UserDefinedExceptions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.exe
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.deps.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.runtimeconfig.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.runtimeconfig.dev.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\DivideByZero\bin\Debug\netcoreapp3.1\DivideByZero.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.csprojAssemblyReference.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.csproj.CoreCompileInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.AssemblyInfoInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.AssemblyInfo.cs
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\DivideByZero\obj\Debug\netcoreapp3.1\DivideByZero.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.exe
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.deps.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.runtimeconfig.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.runtimeconfig.dev.json
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\WritingFiles\bin\Debug\netcoreapp3.1\WritingFiles.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.csproj.CoreCompileInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.AssemblyInfoInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.AssemblyInfo.cs
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.dll
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module6\WritingFiles\obj\Debug\netcoreapp3.1\WritingFiles.genruntimeconfig.cache
