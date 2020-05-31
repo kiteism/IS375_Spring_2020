@@ -1,0 +1,10 @@
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module7\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module7\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module7\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module7\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module7\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module7\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module7\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module7\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module7\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\Peyto\source\repos\IS375_Spring_2020\ON\PeytonBodhi\Module7\DBConnection\obj\Debug\DBConnection.pdb
