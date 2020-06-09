@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pm7p55e9hGhaQ2lmS9ohTnpZOxz6rYWrthw/fgAtfl5LyU2wrMcgKy44R94ggLvuSgpYYtgYrbFubGLYsQOgeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Peyto\\source\\repos\\Peytonbodhi\\IS375_Spring_2020\\ON\\Module9\\MyFirstWebApp\\MyFirstWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Peyto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
