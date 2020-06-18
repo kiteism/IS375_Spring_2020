@@ -1,0 +1,12 @@
+C:\Users\KIET\source\repos\QueueClass\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.AssemblyInfoInputs.cache
+C:\Users\KIET\source\repos\QueueClass\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.AssemblyInfo.cs
+C:\Users\KIET\source\repos\QueueClass\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.csproj.CoreCompileInputs.cache
+C:\Users\KIET\source\repos\QueueClass\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.exe
+C:\Users\KIET\source\repos\QueueClass\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.deps.json
+C:\Users\KIET\source\repos\QueueClass\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.runtimeconfig.json
+C:\Users\KIET\source\repos\QueueClass\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.runtimeconfig.dev.json
+C:\Users\KIET\source\repos\QueueClass\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.dll
+C:\Users\KIET\source\repos\QueueClass\QueueClass\bin\Debug\netcoreapp3.1\QueueClass.pdb
+C:\Users\KIET\source\repos\QueueClass\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.dll
+C:\Users\KIET\source\repos\QueueClass\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.pdb
+C:\Users\KIET\source\repos\QueueClass\QueueClass\obj\Debug\netcoreapp3.1\QueueClass.genruntimeconfig.cache

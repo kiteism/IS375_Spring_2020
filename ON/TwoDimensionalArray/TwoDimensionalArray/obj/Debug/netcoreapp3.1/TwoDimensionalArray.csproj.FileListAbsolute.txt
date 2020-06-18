@@ -1,0 +1,13 @@
+C:\Users\KIET\source\repos\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.exe
+C:\Users\KIET\source\repos\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.deps.json
+C:\Users\KIET\source\repos\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.runtimeconfig.json
+C:\Users\KIET\source\repos\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.runtimeconfig.dev.json
+C:\Users\KIET\source\repos\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.dll
+C:\Users\KIET\source\repos\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.pdb
+C:\Users\KIET\source\repos\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.csprojAssemblyReference.cache
+C:\Users\KIET\source\repos\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\KIET\source\repos\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.AssemblyInfo.cs
+C:\Users\KIET\source\repos\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\KIET\source\repos\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.dll
+C:\Users\KIET\source\repos\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.pdb
+C:\Users\KIET\source\repos\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.genruntimeconfig.cache
